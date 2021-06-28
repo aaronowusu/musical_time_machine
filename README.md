@@ -20,7 +20,7 @@ A Python Script that allows the user to generate a Spotify playlist of Billboard
 * Run the main.py file as you would any other Python script (.py) file.
 
 
-## Modules Used
+## Modules
 1. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 2. [Requests](https://docs.python-requests.org/en/master/)
 3. [Spotipy](https://spotipy.readthedocs.io/en/2.18.0/)
